@@ -4,7 +4,7 @@
 creating a code me quiz
 
 # live link
-
+https://olvera1208.github.io/code-quiz/
 
 # Goal
 My goal as a web developer is to create a quiz using varius techneqies we have learned in class.
